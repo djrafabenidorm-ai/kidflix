@@ -2,7 +2,7 @@
   "name": "templet",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aymaq-code.github.io/kidflix",
+  "homepage": "https://djrafabenidorm-ai.github.io/kidflix",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
